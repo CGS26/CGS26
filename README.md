@@ -4,7 +4,7 @@
 🚀 Passionate about Software Development, Machine Learning, and Cloud Technologies.  
 🔍 Focused on crafting scalable solutions and optimizing performance in complex systems.  
 
-📌 **Portfolio:** [cgsushant.tech](https://www.cgsushant.tech/)  
+📌 **Portfolio:** [cgsushant.tech](https://www.cgsushant.com/)  
 📌 **LinkedIn:** [linkedin.com/in/gaurav-sushant-cherukuri](https://www.linkedin.com/in/gaurav-sushant-cherukuri)  
 📌 **Email:** gauravsushant267@gmail.com  
 
